@@ -1,5 +1,5 @@
 package Tasks;
-
+/*
 
 public class Class_all_4typeMethods {
     public static void main(String[] args) {
@@ -18,7 +18,7 @@ class Person{
     int age;
     String address;
     double salary;
-    boolean ismarried;
+    boolean is_married;
 
 
     //1. without param without RT
@@ -29,8 +29,8 @@ class Person{
     //2. Without param with RT
     boolean married(){
         ismarried = true;
-        System.out.println("Is married " +ismarried);
-        return ismarried;
+        System.out.println("Is married " +is_married);
+        return is_married;
     }
 
    // 3.With Parameters and Without RT
@@ -46,3 +46,4 @@ class Person{
     }
 }
 
+*/
