@@ -10,7 +10,7 @@ public class Person_Class_DC_PC {
         p1.walk();
         p1.dohome();
 
-        System.out.println( );
+        System.out.println();
 
         //object with PC
 
