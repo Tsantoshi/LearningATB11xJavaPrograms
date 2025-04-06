@@ -8,13 +8,12 @@ public class Method_Overriding {
 
         Vehicle myTruck = new Truck();
         myTruck.start();
-
-
     }
 }
 class Vehicle{
     public void start(){
         System.out.println("vehicle is starting");
+
     }
 }
 class Car extends  Vehicle{

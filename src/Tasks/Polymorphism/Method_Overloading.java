@@ -2,6 +2,7 @@ package Tasks.Polymorphism;
 
 public class Method_Overloading {
     public static void main(String[] args) {
+
          Calculator calc = new Calculator();
         System.out.println("Sum of 5 and 10 (integers): " + calc.add(5, 10));
         System.out.println("Sum of 5, 10, and 15 (integers): " + calc.add(5, 10, 15));
