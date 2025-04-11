@@ -8,6 +8,5 @@ public class Print_sum_of10_natural_num_with_forloop {
 
         }
         System.out.println("Sum = " + sum);
-
     }
 }

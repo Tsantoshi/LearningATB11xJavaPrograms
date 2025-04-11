@@ -1,6 +1,7 @@
 package Tasks.task08_April;
 
 public class Print_sum_of10_natural_num_whileloop {
+
     public static void main(String[] args) {
 
         int sum = 0;
